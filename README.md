@@ -17,7 +17,7 @@ Read in **[German](https://github.com/Ritzing/gci18.fossasia.org/blob/master/tra
   > [gitter.im/fossasia/gci16.fossasia.org](https://gitter.im/fossasia/gci16.fossasia.org)
 
 ## Things you should know before contributing:
-- All pull requests need to be associated to an issue.
+- Every pull requests need to be associated to an issue.
 - All PRs need to be assigned to the person working on it.
 - If an issue cannot be completed in less than a day, it should be broken up into multiple issues.
 - Make pull requests from your own forks (even if you have write rights to the repository, do not create new branches, develop on your own branches).
